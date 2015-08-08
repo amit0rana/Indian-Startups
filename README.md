@@ -4,33 +4,33 @@ List of shopping sites and mobile apps
 #Organic Stores
 * [Down To Earth Organic Food](http://www.downtoearthorganicfood.com/)
 * [I Say Organic](http://www.isayorganic.com/)
-* [Organic Shop](http://organicshop.in/)
-* [Organic India](http://www.organicindia.com/). [Shopping site](http://www.organicindiashop.com/index.php?route=product/category)
-* [Organic Garden](http://www.organicgarden.co.in/)
 * [Naturally Yours](http://www.naturallyyours.in/)
+* [Organic Garden](http://www.organicgarden.co.in/)
+* [Organic India](http://www.organicindia.com/). [Shopping site](http://www.organicindiashop.com/index.php?route=product/category)
+* [Organic Shop](http://organicshop.in/)
 
 #Food Ordering Companies
-* ~~(Fishtro)[http://www.fishtro.com/]~~
-* (Faasos)[https://www.faasos.com/index.aspx]
+* [Ammi's Biryani](http://www.ammisbiryani.com/)
+* [Chefensa](http://www.chefensa.co.in/)
+  * https://play.google.com/store/apps/details?id=com.project.chefensaapp
+* [Faasos](https://www.faasos.com/index.aspx)
   * https://play.google.com/store/apps/details?id=com.done.faasos
   * https://itunes.apple.com/in/app/faasos/id808796222?ls=1&mt=8
   * http://www.windowsphone.com/en-gb/store/app/faaso-s/bc8142ae-1c40-48ee-bd43-fc41239634f9
-* [Ammi's Biryani](http://www.ammisbiryani.com/)
-* (Fresh Menu)[http://freshmenu.com]
+* ~~[Fishtro](http://www.fishtro.com/)~~
+* [Fresh Menu](http://freshmenu.com)
   * https://play.google.com/store/apps/details?id=com.presto.restaurant.freshmenu
   * https://itunes.apple.com/app/id957179182
-* [Chefensa](http://www.chefensa.co.in/)
-  * https://play.google.com/store/apps/details?id=com.project.chefensaapp
 
 #Adult Stores
-* [That's Personal](http://www.thatspersonal.com/)
-* [Kaamastra](https://kaamastra.com/)
-* [IMBesharam](http://www.imbesharam.com/)
-* ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/)~~
-* [But Me Condoms](http://www.buymecondoms.com)
+* [Buy Me Condoms](http://www.buymecondoms.com)
 * [Condom Bazaar](http://www.condombazaar.com)
 * [Condom King](http://www.condomking.in)
+* [IMBesharam](http://www.imbesharam.com/)
+* [Kaamastra](https://kaamastra.com/)
+* ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/)~~
 * [Sexpiration](www.sexpiration.com)
+* [That's Personal](http://www.thatspersonal.com/)
 
 #Services
 bro4u.com
@@ -38,7 +38,20 @@ bro4u.com
 #Platforms for making shopping sites
 * www.buildabazaar.com
 * www.Shopify.com
- 
+
+#Grocery Shopping
+* [Big Basket](http://www.Bigbasket.com)
+  * https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp
+  * https://itunes.apple.com/in/app/bigbasket.com/id660683603?mt=8&uo=4
+* [Buy Greenz](http://www.Buygreenz.com)
+* ~~[Fresh Buyz](http://www.Freshbuyz.com) | [fb](https://www.facebook.com/freshbuyz)~~
+* [Get The Best](http://www.Getthebest.com)
+* [Grofers] (http://www.grofers.com/)
+  * https://bit.ly/grofers
+  * https://bit.ly/groferit
+* [Veggi Bazaar](http://Veggibazaar.com)
+* ~~[Veg Wala](http://www.Vegwala.com)~~
+
 #TODO Categorise them
 http://www.missnot.com
 http://www.govasool.com/
@@ -97,11 +110,6 @@ http://books.rediff.com
 http://www.buybooksindia.com
 http://www.comma365.com
 http://www.zopnow
-http://www.Vegwala.com
-http://www.Getthebest.com
-http://www.Buygreenz.com
-http://www.Freshbuyz.com
-http://www.Veggibazaar.com
-http://www.Bigbasket.com
+
 http://www.aajkacatch.com
 http://www.basicslife.com 
