@@ -43,8 +43,23 @@ List of shopping sites and mobile apps
 * [Grofers] (http://www.grofers.com/)
   * https://bit.ly/grofers
   * https://bit.ly/groferit
+* ~~[missNOT](http://www.missnot.com),[1](https://www.facebook.com/missNOT) As of 8th Aug 2015~~
 * [Veggi Bazaar](http://Veggibazaar.com)
 * ~~[Veg Wala](http://www.Vegwala.com) As of 8th Aug 2015~~
+
+#Baby shops
+* ~~[Allschoolstuff](http://allschoolstuff.com/) As of 8th Aug 2015~~
+* [Babyoye](http://www.babyoye.com)
+* [FirstCry](http://www.firstcry.com)
+  * https://play.google.com/store/apps/details?id=fc.admin.fcexpressadmin
+  * https://itunes.apple.com/in/app/firstcry.com-online-shopping/id952114772?ls=1&mt=8
+* ~~Hushbabies [1](http://kalaari.com/index.php/hushbabies), [2](https://www.crunchbase.com/organization/hushbabies-com) as of 8th Aug 2015~~
+* [Littleshop](http://littleshop.in/)
+* [Ofororange](http://www.ofororange.com/), [1](http://ofororangestore.blogspot.in/
+* [PinkBlueIndia](http://PinkblueIndia.com)
+* [Redlily](http://www.redlily.com/)
+* [StoryRevolution](http://storyrevolution.in/) Only books.
+* [Yapaa](http://www.yapaa.com)
 
 #Services
 bro4u.com
@@ -55,63 +70,88 @@ bro4u.com
 
 #car rentals
 
-#TODO Categorise them
-http://www.missnot.com
-http://www.govasool.com/
-http://www.bhavtav.com
-http://www.retailmart.com
-http://www.Shopclues.com
-http://www.sulekha.com
-http://www.futurebazaar.com
-http://www.saholic.com
-http://www.flipkart.com
-http://www.infibeam.com
-http://www.snapdeal.com
-http://www.indiaplaza.com
-http://www.letsbuy.com
-http://www.adexmart.com
-http://www.yebhi.com
-http://www.zoomin.com
-http://www.smartshoppers.in
-http://www.gadgetsguru.com
-http://www.offerbean.com
-http://www.edeal.in
-http://www.storeji.com
-http://www.edealshop.com
-http://www.techshop.in
-http://www.shopmania.biz
-http://www.babyoye
-http://www.ebay
-http://www.dealsandyou
-http://www.jabong
-http://www.bagskart
-http://www.egully
-http://www.firstcry
-http://www.freecultr
-http://www.goodlife
-http://www.healthkart
-http://www.bodypixels
-http://www.cilory
-http://www.Zivame
-http://www.flybyknight
-http://www.homeshop18
-http://www.hushbabies
-http://www.koocs
-http://www.lenskart
-http://www.naaptol
-http://www.pepperfry
-http://www.timtara
-http://www.tradus.in
-http://www.watchkart
-http://www.faballey.com
-http://www.bookadda.com/
-http://www.secondhandbooksindia.com/
-http://www.landmarkonthenet.com/
-http://www.infibeam.com/Books/
-http://books.rediff.com
-http://www.buybooksindia.com
-http://www.comma365.com
-http://www.zopnow
+#MultiBrand / Multicategory
+* http://www.edeal.in
+* [flipkart](http://www.flipkart.com)
+  * https://play.google.com/store/apps/details?id=com.flipkart.android
+  * https://itunes.apple.com/in/app/flipkart/id742044692
+  * http://www.windowsphone.com/en-in/store/app/flipkart/e79de9bc-6cdd-42ff-be8d-a75bba0db05e
+* [infibeam](http://www.infibeam.com)
+* ~~ http://www.letsbuy.com (now flipkart) ~~
+* http://www.Shopclues.com
+  * https://play.google.com/store/apps/details?id=com.shopclues
+* [snapdeal](http://www.snapdeal.com)
+  * https://play.google.com/store/apps/details?id=com.snapdeal.main
+  * https://itunes.apple.com/in/app/snapdeal-mobile-shopping/id721124909?mt=8
+  * http://www.windowsphone.com/en-in/store/app/snapdeal/ee17fccf-40d0-4a59-80a3-04da47a5553f?signin=true
+  
+#Fashion / Home Furnishing
+* [jabong](http://www.jabong.com)
+* [cilory](http://www.cilory.com)
+  * https://play.google.com/store/apps/details?id=com.cilory.app
+  * https://itunes.apple.com/in/app/cilory-online-shopping-app/id942262742
+* [yebhi](http://www.yebhi.com)
+  * https://play.google.com/store/apps/details?id=com.yebhi
+* [zivame](http://www.Zivame.com)
+* [zopnow](http://www.zopnow.com)
 
-http://www.aajkacatch.com
-http://www.basicslife.com 
+#Car and bike accessories
+* [Jazz My Ride](http://www.jazzmyride.com/)
+
+#TODO Categorise them
+* ~~ http://www.adexmart.com ~~
+* [bhavtav](http://www.bhavtav.com) Mobile Store
+* http://www.gadgetsguru.com Electronic Store
+* [govasool](http://www.govasool.com/)
+* ~~ http://www.indiaplaza.com [1](https://en.wikipedia.org/wiki/Indiaplaza), [2](http://www.quora.com/E-Commerce-in-India-1/IS-Indiaplaza-shutting-down-Even-after-the-latest-round-of-funding-they-are-not-able-to-run-the-venture)~~
+* ~~ http://www.retailmart.com [1](https://www.facebook.com/RetailMartOnlineShopping) As of 8th Aug 2015~~
+* [saholic](http://www.saholic.com) Electronic store
+* http://www.smartshoppers.in Electronics, lighting, home/kitchen
+* http://www.sulekha.com
+  * https://play.google.com/store/apps/details?id=sulekha.yellowpages.lcf
+* http://www.zoomin.com
+  * https://app.adjust.io/jn4b25
+  * https://app.adjust.io/u319ew
+
+* http://www.aajkacatch.com
+* http://www.bagskart
+* http://www.basicslife.com
+* http://www.bodypixels
+* http://www.bookadda.com/
+* http://books.rediff.com
+* http://www.buybooksindia.com
+* http://www.comma365.com
+* http://www.coupondunia.in
+* http://www.dealsandyou
+* http://www.ebay
+* ~~ http://www.edealshop.com ~~
+* http://www.egully
+* http://www.faballey.com
+* http://www.flybyknight
+* http://www.freecultr
+* http://www.goodlife
+* http://www.healthkart
+* http://www.homeshop18
+* http://www.koocs
+* http://www.landmarkonthenet.com/
+* http://www.lenskart
+* http://www.naaptol
+* ~~ http://www.offerbean.com [1](https://www.crunchbase.com/organization/offerbean), [2](http://yourstory.com/2012/05/offerbean-e-tailing-electronic-goods-deals/)~~
+* http://offerdunia.in/
+* http://www.pepperfry
+* http://www.secondhandbooksindia.com/
+* ~~http://www.storeji.com probably jazzmyride.com now [1](https://www.facebook.com/storeji)~~
+* [TechShop](http://www.techshop.in) Electronic store
+* http://www.timtara
+* http://www.tradus.in
+* http://www.watchkart
+
+couponation
+27coupons
+oneindiacoupons
+zoutons
+buyhatke
+cashkaro.com
+
+#Price comparison
+* shopmania.in
