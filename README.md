@@ -10,11 +10,17 @@ List of shopping sites and mobile apps
 * [Naturally Yours](http://www.naturallyyours.in/)
 
 #Food Ordering Companies
-http://www.fishtro.com/
-http://www.faasos.com/
-http://www.ammisbiryani.com/
-Freshmenu.com
-Chefensa
+* ~~(Fishtro)[http://www.fishtro.com/]~~
+* (Faasos)[https://www.faasos.com/index.aspx]
+  * https://play.google.com/store/apps/details?id=com.done.faasos
+  * https://itunes.apple.com/in/app/faasos/id808796222?ls=1&mt=8
+  * http://www.windowsphone.com/en-gb/store/app/faaso-s/bc8142ae-1c40-48ee-bd43-fc41239634f9
+* [Ammi's Biryani](http://www.ammisbiryani.com/)
+* (Fresh Menu)[http://freshmenu.com]
+  * https://play.google.com/store/apps/details?id=com.presto.restaurant.freshmenu
+  * https://itunes.apple.com/app/id957179182
+* [Chefensa](http://www.chefensa.co.in/)
+  * https://play.google.com/store/apps/details?id=com.project.chefensaapp
 
 #Adult Stores
 http://imbesharam.com/
