@@ -1,5 +1,6 @@
 # Indian-Web-and-Mobile-Commerce-links
 List of shopping sites and mobile apps
+~~No longer active / out of business~~
 
 #Organic Stores
 * [Down To Earth Organic Food](http://www.downtoearthorganicfood.com/)
@@ -17,7 +18,7 @@ List of shopping sites and mobile apps
   * https://play.google.com/store/apps/details?id=com.done.faasos
   * https://itunes.apple.com/in/app/faasos/id808796222?ls=1&mt=8
   * http://www.windowsphone.com/en-gb/store/app/faaso-s/bc8142ae-1c40-48ee-bd43-fc41239634f9
-* ~~[Fishtro](http://www.fishtro.com/)~~
+* ~~[Fishtro](http://www.fishtro.com/) As of 8th Aug 2015~~
 * [Fresh Menu](http://freshmenu.com)
   * https://play.google.com/store/apps/details?id=com.presto.restaurant.freshmenu
   * https://itunes.apple.com/app/id957179182
@@ -28,9 +29,22 @@ List of shopping sites and mobile apps
 * [Condom King](http://www.condomking.in)
 * [IMBesharam](http://www.imbesharam.com/)
 * [Kaamastra](https://kaamastra.com/)
-* ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/)~~
+* ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/) As of 8th Aug 2015~~
 * [Sexpiration](www.sexpiration.com)
 * [That's Personal](http://www.thatspersonal.com/)
+
+#Grocery Shopping
+* [Big Basket](http://www.Bigbasket.com)
+  * https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp
+  * https://itunes.apple.com/in/app/bigbasket.com/id660683603?mt=8&uo=4
+* [Buy Greenz](http://www.Buygreenz.com)
+* ~~[Fresh Buyz](http://www.Freshbuyz.com) | [fb](https://www.facebook.com/freshbuyz) As of 8th Aug 2015~~
+* [Get The Best](http://www.Getthebest.com)
+* [Grofers] (http://www.grofers.com/)
+  * https://bit.ly/grofers
+  * https://bit.ly/groferit
+* [Veggi Bazaar](http://Veggibazaar.com)
+* ~~[Veg Wala](http://www.Vegwala.com) As of 8th Aug 2015~~
 
 #Services
 bro4u.com
@@ -39,18 +53,7 @@ bro4u.com
 * www.buildabazaar.com
 * www.Shopify.com
 
-#Grocery Shopping
-* [Big Basket](http://www.Bigbasket.com)
-  * https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp
-  * https://itunes.apple.com/in/app/bigbasket.com/id660683603?mt=8&uo=4
-* [Buy Greenz](http://www.Buygreenz.com)
-* ~~[Fresh Buyz](http://www.Freshbuyz.com) | [fb](https://www.facebook.com/freshbuyz)~~
-* [Get The Best](http://www.Getthebest.com)
-* [Grofers] (http://www.grofers.com/)
-  * https://bit.ly/grofers
-  * https://bit.ly/groferit
-* [Veggi Bazaar](http://Veggibazaar.com)
-* ~~[Veg Wala](http://www.Vegwala.com)~~
+#car rentals
 
 #TODO Categorise them
 http://www.missnot.com
@@ -87,7 +90,6 @@ http://www.firstcry
 http://www.freecultr
 http://www.goodlife
 http://www.healthkart
-http://www.www.thatspersonal.com
 http://www.bodypixels
 http://www.cilory
 http://www.Zivame
