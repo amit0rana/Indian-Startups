@@ -20,7 +20,7 @@ List of shopping sites and mobile apps
   * https://itunes.apple.com/in/app/firstcry.com-online-shopping/id952114772?ls=1&mt=8
 * ~~Hushbabies [1](http://kalaari.com/index.php/hushbabies), [2](https://www.crunchbase.com/organization/hushbabies-com) as of 8th Aug 2015~~
 * [Littleshop](http://littleshop.in/)
-* [Ofororange](http://www.ofororange.com/), [1](http://ofororangestore.blogspot.in/
+* [Ofororange](http://www.ofororange.com/), [\[1\]](http://ofororangestore.blogspot.in/)
 * [PinkBlueIndia](http://PinkblueIndia.com)
 * [Redlily](http://www.redlily.com/)
 * [StoryRevolution](http://storyrevolution.in/) Only books.
@@ -56,14 +56,27 @@ List of shopping sites and mobile apps
 * [Ammi's Biryani](http://www.ammisbiryani.com/)
 * [Chefensa](http://www.chefensa.co.in/)
   * https://play.google.com/store/apps/details?id=com.project.chefensaapp
+* [Delyver](http://www.delyver.com/)
+  * https://play.google.com/store/apps/details?id=com.delyver&hl=en
+  * https://itunes.apple.com/us/app/delyver/id980556189?mt=8
 * [Faasos](https://www.faasos.com/index.aspx)
   * https://play.google.com/store/apps/details?id=com.done.faasos
   * https://itunes.apple.com/in/app/faasos/id808796222?ls=1&mt=8
   * http://www.windowsphone.com/en-gb/store/app/faaso-s/bc8142ae-1c40-48ee-bd43-fc41239634f9
 * ~~[Fishtro](http://www.fishtro.com/) As of 8th Aug 2015~~
+* [FoodPanda](https://www.foodpanda.in/)
+  * https://play.google.com/store/apps/details?id=com.global.foodpanda.android
+  * https://itunes.apple.com/app/id758103884?mt=8
+  * https://www.microsoft.com/en-us/store/apps/foodpanda-food-delivery/9wzdncrdlcdn
 * [Fresh Menu](http://freshmenu.com)
   * https://play.google.com/store/apps/details?id=com.presto.restaurant.freshmenu
   * https://itunes.apple.com/app/id957179182
+* [JustEat](http://justeat.in/)
+  * https://play.google.com/store/apps/details?id=in.justeat
+* [Swiggy](https://www.swiggy.com/)
+  * https://play.google.com/store/apps/details?id=in.swiggy.android
+  * https://itunes.apple.com/in/app/id989540920
+* TinyOwl
   
 #Grocery Shopping
 * ~~http://www.aajkacatch.com [1](https://www.facebook.com/Aajkacatch)~~
