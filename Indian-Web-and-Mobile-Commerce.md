@@ -77,6 +77,7 @@ List of shopping sites and mobile apps
   * https://play.google.com/store/apps/details?id=in.swiggy.android
   * https://itunes.apple.com/in/app/id989540920
 * TinyOwl
+* [Zoroy - Luxury Chocolates](http://www.zoroy.com)
 
 #Grocery Shopping
 * ~~http://www.aajkacatch.com [1](https://www.facebook.com/Aajkacatch)~~
