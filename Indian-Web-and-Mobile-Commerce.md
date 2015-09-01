@@ -27,7 +27,16 @@ List of shopping sites and mobile apps
 * [Yapaa](http://www.yapaa.com)
 
 #Beauty and well-being
-* http://www.bodypixels.com
+* [Belita](http://www.belitaindia.com)
+* [BigStylist](http://www.bigstylist.com)
+* [BodyPixels](http://www.bodypixels.com)
+* [Housejoy](http://www.housejoy.in)
+* MyGlamm
+* [StayGlad](http://stayglad.com)
+* [The Home Salon](http://thehomesalon.in)
+* [VanityCube](http://vanitycube.in)
+* [Vyomo](http://www.vyomo.com)
+  * https://play.google.com/store/apps/details?id=com.vyomocp&hl=en
 
 #Books
 * http://www.bookadda.com/
