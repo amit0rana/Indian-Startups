@@ -63,16 +63,21 @@ List of shopping sites and mobile apps
 
 #Food Ordering Companies
 * [Ammi's Biryani](http://www.ammisbiryani.com/)
+* Bite Club
 * [Chefensa](http://www.chefensa.co.in/)
   * https://play.google.com/store/apps/details?id=com.project.chefensaapp
+* Dazo
 * [Delyver](http://www.delyver.com/)
   * https://play.google.com/store/apps/details?id=com.delyver&hl=en
   * https://itunes.apple.com/us/app/delyver/id980556189?mt=8
+* Eatlo
 * [Faasos](https://www.faasos.com/index.aspx)
   * https://play.google.com/store/apps/details?id=com.done.faasos
   * https://itunes.apple.com/in/app/faasos/id808796222?ls=1&mt=8
   * http://www.windowsphone.com/en-gb/store/app/faaso-s/bc8142ae-1c40-48ee-bd43-fc41239634f9
 * ~~[Fishtro](http://www.fishtro.com/) As of 8th Aug 2015~~
+* Foodcloud
+* Foodella
 * [FoodPanda](https://www.foodpanda.in/)
   * https://play.google.com/store/apps/details?id=com.global.foodpanda.android
   * https://itunes.apple.com/app/id758103884?mt=8
@@ -80,12 +85,19 @@ List of shopping sites and mobile apps
 * [Fresh Menu](http://freshmenu.com)
   * https://play.google.com/store/apps/details?id=com.presto.restaurant.freshmenu
   * https://itunes.apple.com/app/id957179182
+* Frsh
+* Holachef
 * [JustEat](http://justeat.in/)
   * https://play.google.com/store/apps/details?id=in.justeat
+* Jugnoo Meals
+* MailHopper
+* SpoojJoy
 * [Swiggy](https://www.swiggy.com/)
   * https://play.google.com/store/apps/details?id=in.swiggy.android
   * https://itunes.apple.com/in/app/id989540920
 * TinyOwl
+* Travel Khana
+* Yumist
 * [Zoroy - Luxury Chocolates](http://www.zoroy.com)
 
 #Grocery Shopping
