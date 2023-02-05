@@ -3,9 +3,9 @@ List of shopping sites and mobile apps
 ~~No longer active / out of business~~
 
 #Adult Stores
-* [Buy Me Condoms](http://www.buymecondoms.com)
+* ~~[Buy Me Condoms](http://www.buymecondoms.com)~~
 * [Condom Bazaar](http://www.condombazaar.com)
-* [Condom King](http://www.condomking.in)
+* ~~[Condom King](http://www.condomking.in)~~
 * [IMBesharam](http://www.imbesharam.com/)
 * [Kaamastra](https://kaamastra.com/)
 * ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/) As of 8th Aug 2015~~
