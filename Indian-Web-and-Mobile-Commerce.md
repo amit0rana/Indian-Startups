@@ -9,7 +9,7 @@ List of shopping sites and mobile apps
 * [IMBesharam](http://www.imbesharam.com/)
 * [Kaamastra](https://kaamastra.com/)
 * ~~[Oh MY Secrets](http://www.ohmysecrets.com) | [1](http://yourstory.com/2014/11/ohmysecrets/) As of 8th Aug 2015~~
-* [Sexpiration](www.sexpiration.com)
+* ~~[Sexpiration](www.sexpiration.com)~~
 * [That's Personal](http://www.thatspersonal.com/)
 
 #Baby shops
@@ -20,7 +20,7 @@ List of shopping sites and mobile apps
   * https://itunes.apple.com/in/app/firstcry.com-online-shopping/id952114772?ls=1&mt=8
 * ~~Hushbabies [1](http://kalaari.com/index.php/hushbabies), [2](https://www.crunchbase.com/organization/hushbabies-com) as of 8th Aug 2015~~
 * [Littleshop](http://littleshop.in/)
-* [Ofororange](http://www.ofororange.com/), [\[1\]](http://ofororangestore.blogspot.in/)
+* ~~[Ofororange](http://www.ofororange.com/), [\[1\]](http://ofororangestore.blogspot.in/)~~
 * [PinkBlueIndia](http://PinkblueIndia.com)
 * [Redlily](http://www.redlily.com/)
 * [StoryRevolution](http://storyrevolution.in/) Only books.
